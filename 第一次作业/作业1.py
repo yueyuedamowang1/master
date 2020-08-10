@@ -1,5 +1,5 @@
 import random
-n = random.randint(1,7)
+n = random.randint(1,8)
 import urllib.request
 name = 'name'
 tep1 = 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596823900026&di=56d9945df232e86068a7934c6e1e6679&imgtype=0&src=http%3A%2F%2Fpics1.baidu.com%2Ffeed%2F8b82b9014a90f603e0304156d382131eb151edb2.jpeg%3Ftoken%3D14a5b4b92518a1e92cc5103e1d083a73%26s%3DB82CEE161B436ECC0ACBC06D0300707B'
